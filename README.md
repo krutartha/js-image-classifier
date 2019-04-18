@@ -1,5 +1,5 @@
 # js-image-classifier
-An instrument classifier using tensorflow
+An instrument image classifier using tensorflow
 
 Current Classes: 
 1) Guitar 
